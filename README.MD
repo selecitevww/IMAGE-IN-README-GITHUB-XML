@@ -11,5 +11,5 @@ http - use shpions
 
 XML
    ` ` `
-    xml without 3 ` " " 3 `
+    xml without 3 ` " " 3 ` ' Ё
    ` ` `
