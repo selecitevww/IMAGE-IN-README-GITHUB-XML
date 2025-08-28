@@ -2,6 +2,8 @@
 IMG LINK
 
  ![NAME](( https://link )
+ 
+CUT (
 
 ETTANTION!
 http - use shpions
